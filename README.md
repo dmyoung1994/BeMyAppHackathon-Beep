@@ -4,9 +4,14 @@ This project was an idea for a hardware hackathon that my friends and I came up 
 
 ## Features of this project
 We took apart an estimote iBeacon, and set the UUIDs of all the devices to be unique from other devices so that we could only come in contact with the ones we want
+
 1. Estimote iBeacon
+
 	*took apart and resoldered the connections to make the device smaller
+	
+	
 2. Software to connect the user to the beacon
+
 	* embedded social network into the app
 	
 ## Note
